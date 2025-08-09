@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://trend-app.vercel.app/sitemap.xml
-
-# Disallow crawling of large video files to save bandwidth
-Disallow: /assets/trend-bg.mp4 
